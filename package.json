@@ -1,0 +1,23 @@
+{
+  "name": "compulsory_task1",
+  "version": "1.0.0",
+  "description": "CV with Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "now-build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zubair Hoosain",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@iconify/react": "^4.1.1"
+  }
+}
